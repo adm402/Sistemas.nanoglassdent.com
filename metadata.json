@@ -1,0 +1,6 @@
+{
+  "name": "Nanoglass Dent Portal",
+  "description": "Portal de intranet e CRM clínico odontológico avançado com gestão de estoque do laboratório, diretório de equipe, finanças e IA diagnóstica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
